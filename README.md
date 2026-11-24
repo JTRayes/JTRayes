@@ -21,4 +21,4 @@ Python · SQL · Excel · Power BI · Tableau · Figma · Canva · ClickUp · AS
 
 ### Let's connect
 
-<!-- Add your LinkedIn link here, e.g. [LinkedIn](https://www.linkedin.com/in/your-name) -->
+[LinkedIn](https://www.linkedin.com/in/joudrayesacc)
